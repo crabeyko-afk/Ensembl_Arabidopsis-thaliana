@@ -33,4 +33,3 @@ It demonstrates how to organize, version, and share bioinformatics data using Gi
 git add .
 git commit -m "Add genome FASTA and annotation GFF3 for Arabidopsis thaliana"
 git push origin main
-
